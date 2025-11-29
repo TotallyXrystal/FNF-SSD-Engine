@@ -1,7 +1,7 @@
 Status Right Now: In Development
 
 for some reason this appears (there is a video folder on assets)
-
+-------------------------------------------------------
 Finished:
 
 Crash Handler
@@ -13,9 +13,9 @@ Intro Text
 Folders
 
 Splash Screens (except the haxeflixel one)
-
+-------------------------------------------------------
 Unfinished:
-
+-------------------------------------------------------
 Project.xml (an ABSOLUTE FREAKING NIGHTMARE THAT I HATE)
 
 Fonts
