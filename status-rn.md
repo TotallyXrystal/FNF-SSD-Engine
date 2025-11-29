@@ -1,6 +1,4 @@
 Status Right Now: In Development
-
-for some reason this appears (there is a video folder on assets)
 -------------------------------------------------------
 Finished:
 
