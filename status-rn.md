@@ -11,7 +11,7 @@ Intro Text
 Folders
 
 Splash Screens (except the haxeflixel one)
--------------------------------------------------------
+
 Unfinished:
 -------------------------------------------------------
 Project.xml (an ABSOLUTE FREAKING NIGHTMARE THAT I HATE)
